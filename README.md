@@ -1,3 +1,3 @@
-I am an incoming PhD student at MIT CSAIL, focusing on the application of computer vision and machine learning to ecological problems. Previously, I was a research assistant at the University of Bonn and worked on the [AMMOD project](https://ammod.de), advised by [Volker Steinhage](https://vsteinhage.github.io). Please feel free to take a look at my projects on GitHub and at my publications below.
+I'm a first-year PhD student at MIT CSAIL, advised by Sara Beery. My research is focused on computer vison approaches for ecological and environmental monitoring. Previously, I was a research assistant at the University of Bonn and worked on the [AMMOD project](https://ammod.de), advised by [Volker Steinhage](https://vsteinhage.github.io). Please feel free to reach out via haucke at mit.edu.
 
 ![Metrics](/github-metrics.svg)
